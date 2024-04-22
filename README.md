@@ -14,4 +14,7 @@ We used Shared preferences where task has been stored in local storage of mobile
 
 Validation:
 Where user not enter empty text.
-# todo-app
+
+Unit Testing:
+
+Completed unit testing of add and delete todos.
